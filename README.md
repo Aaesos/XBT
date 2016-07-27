@@ -33,3 +33,6 @@ If you are having troubles running it, ensure that the executable permission has
 ```
 chmod 775 xbt_tracker
 ```
+
+## Future Plans
+I am planning on making scripts for the main distributions of linux, to add XBTT to your services, so you are not required to run it manually on boot.
