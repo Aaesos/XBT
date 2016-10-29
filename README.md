@@ -32,12 +32,12 @@ You will find the tracker executable in xbt/dist. Starting it under linux is as 
 
 Once started, confirm the tracker works by going to the following URL
 
-        http://localhost:2710/stats
+    http://localhost:2710/stats
 
 
 To stop the tracker use the following command.
 
-        killall xbt_tracker
+    killall xbt_tracker
 
 If you are having troubles running it, ensure that the executable permission has been set. The following should fix the issue.
 ```
